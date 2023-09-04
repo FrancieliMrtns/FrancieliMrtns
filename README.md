@@ -28,11 +28,6 @@
   <img alt="Eclipse Badge" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white">
 </div>
 
-<div align="center">
-  <a href="https://github.com/FrancieliMrtns">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancieliMrtns&layout=compact&langs_count=6&theme=dark"/>
-  </a>
-</div>
 
 
 
