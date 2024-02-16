@@ -4,7 +4,7 @@
 <div align="center">
   <h1>🚀 Developer in the Making</h1>
   <p>🎉 Exploring the world of code and technology</p>
-  <p>🌍 19 years old</p>
+  <p>🌍 20 years old</p>
   <p>📍 Based in Tupã, SP, Brazil</p>
 </div>
 
