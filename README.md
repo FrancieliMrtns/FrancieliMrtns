@@ -17,6 +17,9 @@
   <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-green?style=flat&logo=python"></a>
   <a href="https://www.java.com/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-red?style=flat&logo=java"></a>
   <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql"></a>
+  <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js"></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb"></a>
+  <a href="https://cassandra.apache.org/" target="_blank"><img alt="Cassandra" src="https://img.shields.io/badge/-Cassandra-blue?style=flat&logo=apache-cassandra"></a>
 </div>
 
 <h2 align="center">Tools Used</h2>
@@ -27,6 +30,7 @@
   <img alt="GitHub Badge" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
   <img alt="Eclipse Badge" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white">
 </div>
+
 
 
 
