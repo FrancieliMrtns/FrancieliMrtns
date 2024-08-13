@@ -1,38 +1,43 @@
 ### ✨ Hi there, I'm Francieli. Nice to meet you ✨
-<hr>
 
-<div align="center">
-  <h1>🚀 Developer in the Making</h1>
-  <p>🎉 Exploring the world of code and technology</p>
-  <p>🌍 20 years old</p>
-  <p>📍 Based in Tupã, SP, Brazil</p>
-</div>
+---
 
-<h2 align="center">Technologies Used</h2>
+🚀 **Developer in the Making**
 
-<div align="center">
-  <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5"></a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3"></a>
-  <a href="https://www.javascript.com/" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript"></a>
-  <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-green?style=flat&logo=python"></a>
-  <a href="https://www.java.com/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-red?style=flat&logo=java"></a>
-  <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql"></a>
-  <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js"></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb"></a>
-  <a href="https://cassandra.apache.org/" target="_blank"><img alt="Cassandra" src="https://img.shields.io/badge/-Cassandra-blue?style=flat&logo=apache-cassandra"></a>
-</div>
+🎉 Exploring the world of code and technology  
+🌍 20 years old  
+📍 Based in Tupã, SP, Brazil
 
-<h2 align="center">Tools Used</h2>
+---
 
-<div align="center">
-  <img alt="VS Code Badge" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
-  <img alt="Git Badge" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-  <img alt="GitHub Badge" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
-  <img alt="Eclipse Badge" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white">
-</div>
+### 💻 Technologies I Use
+
+- ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
+- ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+- ![Python](https://img.shields.io/badge/-Python-green?style=flat&logo=python)
+- ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
+- ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
+- ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)
+- ![Cassandra](https://img.shields.io/badge/-Cassandra-blue?style=flat&logo=apache-cassandra)
+
+---
+
+### 🛠️ Tools I Use
+
+- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 
+![Francieli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancieliMrtns&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancieliMrtns&layout=compact&theme=radical)
+![Snake animation](https://github.com/FrancieliMrtns/FrancieliMrtns/blob/output/github-contribution-grid-snake.svg)
 
-
-
-
+   
